@@ -1,92 +1,92 @@
 [
     {
       "id": 1,
-      "title": "product1",
-      "description": "description1",
-      "price": 1500,
+      "title": "Iphone 11 - 64GB",
+      "description": "NEGRO",
+      "price": 500,
       "thumbnail": "url",
-      "code": "abc123",
-      "stock": 500
+      "code": "cel11",
+      "stock": 5
     },
     {
       "id": 2,
-      "title": "product1",
-      "description": "description1",
-      "price": 1500,
+      "title": "Iphone 11 - 128GB",
+      "description": "BLANCO",
+      "price": 550,
       "thumbnail": "url",
-      "code": "abc124",
-      "stock": 500
+      "code": "cel11a",
+      "stock": 5
     },
     {
       "id": 3,
-      "title": "zzzzz",
-      "description": "xxxxxx",
-      "price": 1500,
+      "title": "Iphone 12 - 64GB",
+      "description": "VIOLETA",
+      "price": 615,
       "thumbnail": "url",
-      "code": "abc128",
-      "stock": 500
+      "code": "cel12",
+      "stock": 10
     },
     {
       "id": 4,
-      "title": "zzzzz",
-      "description": "xxxxxx",
-      "price": 1500,
+      "title": "Iphone 12 - 128GB",
+      "description": "NEGRO",
+      "price": 650,
       "thumbnail": "url",
-      "code": "abc128f",
-      "stock": 500
+      "code": "cel12a",
+      "stock": 10
     },
     {
       "id": 5,
-      "title": "zzzzz",
-      "description": "xxxxxx",
-      "price": 1500,
+      "title": "Iphone 12 - 256GB",
+      "description": "ROJO",
+      "price": 710,
       "thumbnail": "url",
-      "code": "abc12df8",
-      "stock": 500
+      "code": "cel12b",
+      "stock": 10
     },
     {
       "id": 6,
-      "title": "zzzzz",
-      "description": "xxxxxx",
-      "price": 1500,
+      "title": "Iphone 13 - 128GB",
+      "description": "ROJO",
+      "price": 725,
       "thumbnail": "url",
-      "code": "abc1dd28",
-      "stock": 500
+      "code": "cel13",
+      "stock": 10
     },
     {
       "id": 7,
-      "title": "zzzzz",
-      "description": "xxxxxx",
+      "title": "Iphone 13 - 256GB",
+      "description": "AZUL",
       "price": 1500,
       "thumbnail": "url",
-      "code": "abc12sdasda8",
-      "stock": 500
+      "code": "cel13a",
+      "stock": 10
     },
     {
       "id": 8,
-      "title": "zzzzz",
-      "description": "xxxxxx",
-      "price": 1500,
+      "title": "Iphone 14 - 128GB",
+      "description": "ROSA",
+      "price": 820,
       "thumbnail": "url",
-      "code": "abc1asd33328",
-      "stock": 500
+      "code": "cel14",
+      "stock": 10
     },
     {
       "id": 9,
-      "title": "zzzzz",
-      "description": "xxxxxx",
-      "price": 1500,
+      "title": "Iphone 14 - 256GB",
+      "description": "VERDE",
+      "price": 930,
       "thumbnail": "url",
-      "code": "abasdasd128",
-      "stock": 500
+      "code": "cel14a",
+      "stock": 10
     },
     {
       "id": 10,
-      "title": "zzzzz",
-      "description": "xxxxxx",
-      "price": 1500,
+      "title": "Iphone 14 PLUS - 256GB",
+      "description": "BLANCO",
+      "price": 1030,
       "thumbnail": "url",
-      "code": "abcdddd128",
-      "stock": 500
+      "code": "cel14b",
+      "stock": 10
     }
   ]
